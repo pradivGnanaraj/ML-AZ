@@ -3,9 +3,9 @@ Machine Learning Algorithmns
 
 Contents : 
 
-  Data Preprocessing
-  Regression
-  Classification
+  Data Preprocessing</br>
+  Regression</br>
+  Classification</br>
 
 All contents in this repository was guided/assisted from the following instructors:
 
